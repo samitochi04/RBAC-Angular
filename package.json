@@ -1,0 +1,27 @@
+{
+  "name": "rbac-angular",
+  "version": "1.0.0",
+  "description": "A Role Based Access Control with Angular, Node Js, and MySQL # Commands : - npm init -y",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samitochi04/RBAC-Angular.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samitochi04/RBAC-Angular/issues"
+  },
+  "homepage": "https://github.com/samitochi04/RBAC-Angular#readme",
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "mysql2": "^3.12.0"
+  }
+}
